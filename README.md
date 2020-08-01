@@ -4,5 +4,5 @@ My name is Jonas Henrique, I was born in 2000 and I am Brazilian. I am a Back-En
 
 I am a Catholic (:pray:), I love sports (_I play football when possible(⚽️)_), games, reading books (📚) and watching movies / series (📺).
 
-[![Facebook Badge](https://www.facebook.com/jonashcr)](https://www.facebook.com/jonashcr)
-[![Linkedin Badge](https://www.linkedin.com/in/jonas-henrique-castro-rodrigues-7b5241158/)](https://www.linkedin.com/in/jonas-henrique-castro-rodrigues-7b5241158/)
+[![Facebook Badge](https://img.shields.io/badge/My-Facebook-blue)](https://www.facebook.com/jonashcr)
+[![Linkedin Badge](https://img.shields.io/badge/My-Likedin-informational)](https://www.linkedin.com/in/jonas-henrique-castro-rodrigues-7b5241158/)
